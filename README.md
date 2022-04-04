@@ -5,7 +5,8 @@
 - [Description](#description)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Link to GitHub Repo](#link-to-github-repo)
+- [GitHub Repo](#github-repo)
+- [Video Walkthrough](#video-walkthrough)
 - [Screenshots](#screenshots)
 - [Questions](#questions)
 
@@ -21,11 +22,15 @@ This back end set up utilizes Express & SQL to build a database of categories, p
 
 ## Installation
 
-First, clone down the GitHub repo to your local machine. Then, run `npm i` in the terminal to install all the necessary node modules. Next, create the database listed in the schema folder. Then, modify the seed data (found in the seeds directory) to include the details of the user's inventory. You can then seed your database by running `npm run seed` in the terminal. Finally, all you need to do is run `npm run watch` to begin the server.
+First, clone down the GitHub repo to your local machine. Then, run `npm i` in the terminal to install all the necessary node modules. Next, create the database listed in the schema folder. Then, modify the seed data (found in the seeds directory) to include the details of the user's inventory. You can then seed your database by running `npm run seed` in the terminal. Finally, all you need to do is run `npm run watch` or `node server.js` to begin the server.
 
-## Link to GitHub Repo
+## GitHub Repo
 
 https://github.com/mfandel118/E-Commerce_Back-End
+
+## Video Walkthrough
+
+https://drive.google.com/file/d/1fcj7IPG9Zfnsr0hhJFtLFhIutjKRZrdd/view
 
 ## Screenshot(s)
 
